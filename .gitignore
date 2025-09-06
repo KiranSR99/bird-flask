@@ -1,0 +1,20 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment files (if any)
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
